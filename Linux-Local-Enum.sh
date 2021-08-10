@@ -2,7 +2,7 @@
 
 ##### (Cosmetic) Colour output
 red=$(tput setaf 1)      # Issues/Errors
-green=$(tput setaf 2)    # Success
+green=$(tput setaf 2)    # Succes
 yellow=$(tput setaf 3)   # Warnings/Information
 blue=$(tput setaf 4)     # Heading
 bold=$(tput bold  setaf 7)     # Highlight
